@@ -2,3 +2,6 @@
 Version: 1.8.1
 File Description: Place here your custom CSS styles
 */
+div.section-two {
+    background: rgba(145, 144, 144, 0.453);
+}
